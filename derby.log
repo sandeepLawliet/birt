@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Jul 27 19:06:45 IST 2017:
+Booting Derby (version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546)) instance a816c00e-015d-8443-8bcd-000010023788 
+on database directory classpath:BirtSample in READ ONLY mode with class loader sun.misc.Launcher$AppClassLoader@73d16e93. 
+Loaded from file:/home/ms/installed/apache-maven-3.1.1/repository/birt-runtime/org.apache.derby_10.11.1.1_v201605202053.jar.
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_131-b11
+user.dir=/home/ms/sandbox/birtengine
+os.name=Linux
+os.arch=amd64
+os.version=4.10.0-27-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''

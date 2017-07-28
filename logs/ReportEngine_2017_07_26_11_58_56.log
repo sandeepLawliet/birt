@@ -1,0 +1,77 @@
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.api.impl.ReportEngine <init>
+FINE: ReportEngine created. EngineConfig: EngineConfig: logDest=/home/ms/workspace/birtengine/logs;logLevel=FINEST;org.eclipse.birt.report.engine.api.EngineConfig.scriptObjects={PARENT_CLASSLOADER=ParallelWebappClassLoader
+  context: birt-servlet
+  delegate: false
+----------> Parent Classloader:
+java.net.URLClassLoader@7f690630
+};PLATFORM_CONTEXT=org.eclipse.birt.core.framework.PlatformServletContext@368bb775;org.eclipse.birt.report.engine.api.EngineConfig.emitterConfigs={html=org.eclipse.birt.report.engine.api.HTMLEmitterConfig@6700b911}; 
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportitemGeneration
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadGenerationExtensionDefns
+FINE: Load generation extension: Chart
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportitemPresentation
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadPresentationExtensionDefns
+FINE: Load prsentation extension: Chart
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportitemQuery
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadQueryExtensionDefns
+FINE: Load query extension: Chart
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.emitters
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load ppt emitter org.eclipse.birt.report.engine.emitter.ppt
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load xls emitter org.eclipse.birt.report.engine.emitter.prototype.excel
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load pdf emitter org.eclipse.birt.report.engine.emitter.pdf
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load xlsx emitter uk.co.spudsoft.birt.emitters.excel.XlsxEmitter
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load xls_spudsoft emitter uk.co.spudsoft.birt.emitters.excel.XlsEmitter
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load doc emitter org.eclipse.birt.report.engine.emitter.word
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load odp emitter org.eclipse.birt.report.engine.emitter.odp
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load pptx emitter org.eclipse.birt.report.engine.emitter.pptx
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load ods emitter org.eclipse.birt.report.engine.emitter.prototype.ods
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load odt emitter org.eclipse.birt.report.engine.emitter.odt
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load html emitter org.eclipse.birt.report.engine.emitter.html
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load docx emitter org.eclipse.birt.report.engine.emitter.docx
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadEmitterExtensionDefns
+FINE: Load postscript emitter org.eclipse.birt.report.engine.emitter.postscript
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportEventHandler
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.reportItemPreparation
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.dataExtraction
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadDataExtractionExtensions
+FINE: Load data extraction extension: org.eclipse.birt.report.engine.dataextraction.csv
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager getExtensions
+FINE: Start load extension point: org.eclipse.birt.report.engine.extendedItemFactory
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadExtendedItems
+FINE: Load extendedItem extension: Crosstab
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadExtendedItems
+FINE: Load extendedItem extension: CrosstabCell
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.extension.internal.ExtensionManager loadExtendedItems
+FINE: Load extendedItem extension: AggregationCell
+Jul 26, 2017 11:58:57 AM com.neurosys.birt.poc.birtengine.BirtServlet doGet
+FINE: image directory /home/ms/installed/tomcat/webapps/birt-servlet/images
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.api.impl.ReportEngine openReportDesign
+FINE: ReportEngine.openReportDesign: designName=/home/ms/installed/tomcat/webapps/birt-servlet/Reports/null 
+Jul 26, 2017 11:58:57 AM org.eclipse.birt.report.engine.api.impl.ReportEngineHelper openReportDesign
+SEVERE: /home/ms/installed/tomcat/webapps/birt-servlet/Reports/null not found!
+Jul 26, 2017 11:59:02 AM com.neurosys.birt.poc.birtengine.BirtServlet doGet
+FINE: image directory /home/ms/installed/tomcat/webapps/birt-servlet/images
+Jul 26, 2017 11:59:02 AM org.eclipse.birt.report.engine.api.impl.ReportEngine openReportDesign
+FINE: ReportEngine.openReportDesign: designName=/home/ms/installed/tomcat/webapps/birt-servlet/Reports/null 
+Jul 26, 2017 11:59:02 AM org.eclipse.birt.report.engine.api.impl.ReportEngineHelper openReportDesign
+SEVERE: /home/ms/installed/tomcat/webapps/birt-servlet/Reports/null not found!
+Jul 26, 2017 12:00:24 PM org.eclipse.birt.report.engine.api.impl.ReportEngine destroy
+FINE: ReportEngine.destroy
